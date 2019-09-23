@@ -26,7 +26,7 @@ install:
 
 	mkdir -p binaries
 
-	cp -p hello binaries
+	cp -rf hello binaries
 
 
 
