@@ -26,7 +26,7 @@ install:
 
 	mkdir -p binaries
 
-	cp -p hello.cpp binaries
+	cp -p hello binaries
 
 
 
