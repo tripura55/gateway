@@ -6,7 +6,7 @@ int main(void)
 
    printf ("Hello from your first program!\n");
    printf ("Hello everyone!\n");
-   printf ("Hello !\n");
+   printf ("Hi !\n");
 
    printf("Hello world!\n");
 
