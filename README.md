@@ -5,9 +5,6 @@ hi hjf
 latest branch
 djkhdh
 hfkfk
-jfkhjtiirn
-jhf\nk
-yu
-kwdnkl
+jfkh
 kjd
 yiiu
